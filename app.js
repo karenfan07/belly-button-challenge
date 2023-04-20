@@ -214,7 +214,7 @@ function gaugeChart(data) {
             textinfo: 'text',
             textposition:'inside',
             textfont:{
-              size : 16,
+              size : 15,
               },
             marker: {colors:[...arrColorsG]},
             labels: ['8-9', '7-8', '6-7', '5-6', '4-5', '3-4', '2-3', '2-1', '0-1',''],
